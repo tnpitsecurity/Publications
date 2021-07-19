@@ -1,4 +1,4 @@
-#IT Security - TNP Consultants publication details
+# IT Security - TNP Consultants publication details
 
 A collection of publications written by the IT Security consultants
 
