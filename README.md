@@ -13,4 +13,4 @@ A collection of publications written by the IT Security consultants
 
 * [Chashell - Reverse Shell over DNS](https://tnpitsecurity.com/blog/chashellng/)
 
-* [Ligolo : Reverse Tunneling made easy for pentesters](https://github.com/Nicocha30/ligolo-ng)
+* [Ligolo-ng : An advanced, yet simple, tunneling tool that uses a TUN interface.](https://github.com/tnpitsecurity/ligolo-ng)
